@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<script>
+"use strict";
+
+let name = "Eduard";
+
+alert( `hello ${1}` ); 
+
+alert( `hello ${"name"}` ); 
+
+alert( `hello ${name}` ); 
+</script>
